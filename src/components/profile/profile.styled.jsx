@@ -6,7 +6,6 @@ export const Container = styled.div`
     height: 500px;
     margin: auto;
     background-color: rgb(32, 211, 211)
-    
 `
 export const Avatar = styled.img`
     display: block;
